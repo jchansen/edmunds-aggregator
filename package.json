@@ -1,0 +1,11 @@
+{
+  "name": "edmunds-aggregator",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": "^2.9.24",
+    "commander": "^2.8.1",
+    "request": "^2.55.0",
+    "require-dir": "^0.3.0",
+    "underscore": "^1.8.3"
+  }
+}
